@@ -1,0 +1,6 @@
+{
+	"parent": "ui/ui_cover",
+	"textures": {
+		"cover": "ui/element/equipment_slot"
+	}
+}

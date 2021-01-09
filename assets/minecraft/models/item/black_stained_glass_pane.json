@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+      "layer0": "block/black_stained_glass"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "ui/blank"},
+    {"predicate": {"custom_model_data": 2},"model": "ui/element/equipment_slot"},
+    {"predicate": {"custom_model_data": 3},"model": "ui/element/gem_slot"},
+    {"predicate": {"custom_model_data": 4},"model": "ui/element/gem_locked"}    
+	]
+}

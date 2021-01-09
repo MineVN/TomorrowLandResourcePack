@@ -1,0 +1,11 @@
+{
+  "parent": "ui/gui",
+  "textures": {
+    "layer0": "ui/blank"
+  },
+  "display": {
+    "gui": {
+      "scale": [1.15, 1.15, 1.15]
+    }
+  }
+}
