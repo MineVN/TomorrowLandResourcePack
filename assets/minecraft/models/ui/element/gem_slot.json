@@ -1,6 +1,6 @@
 {
 	"parent": "ui/ui_cover",
 	"textures": {
-		"cover": "ui/element/gem_slot"
+		"layer0": "ui/element/gem_slot"
 	}
 }

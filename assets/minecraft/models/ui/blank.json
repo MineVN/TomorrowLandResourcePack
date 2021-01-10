@@ -1,11 +1,6 @@
 {
-  "parent": "ui/ui_cover",
+  "parent": "ui/ui_blank_cover",
   "textures": {
     "layer0": "ui/blank"
-  },
-  "display": {
-    "gui": {
-      "scale": [1.15, 1.15, 1.15]
-    }
   }
 }
