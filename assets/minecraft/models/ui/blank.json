@@ -1,5 +1,5 @@
 {
-  "parent": "ui/gui",
+  "parent": "ui/ui_cover",
   "textures": {
     "layer0": "ui/blank"
   },
