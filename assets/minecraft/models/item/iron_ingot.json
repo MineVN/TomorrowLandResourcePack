@@ -8,6 +8,31 @@
     {"predicate": {"custom_model_data": 2},"model": "custom_item/chaubau/congkich2"}
     {"predicate": {"custom_model_data": 3},"model": "custom_item/chaubau/congkich3"}
     {"predicate": {"custom_model_data": 4},"model": "custom_item/chaubau/congkich4"}
-    {"predicate": {"custom_model_data": 5},"model": "custom_item/chaubau/congkich5"}	
+    {"predicate": {"custom_model_data": 5},"model": "custom_item/chaubau/congkich5"}
+    {"predicate": {"custom_model_data": 6},"model": "custom_item/chaubau/mayman1"}
+    {"predicate": {"custom_model_data": 7},"model": "custom_item/chaubau/mayman2"}
+    {"predicate": {"custom_model_data": 8},"model": "custom_item/chaubau/mayman3"}
+    {"predicate": {"custom_model_data": 9},"model": "custom_item/chaubau/mayman4"}
+    {"predicate": {"custom_model_data": 10},"model": "custom_item/chaubau/mayman5"}
+    {"predicate": {"custom_model_data": 11},"model": "custom_item/chaubau/thantoc1"}
+    {"predicate": {"custom_model_data": 12},"model": "custom_item/chaubau/thantoc2"}
+    {"predicate": {"custom_model_data": 13},"model": "custom_item/chaubau/thantoc3"}
+    {"predicate": {"custom_model_data": 14},"model": "custom_item/chaubau/thantoc4"}
+    {"predicate": {"custom_model_data": 15},"model": "custom_item/chaubau/thantoc5"}
+    {"predicate": {"custom_model_data": 16},"model": "custom_item/chaubau/nhanhnhen1"}
+    {"predicate": {"custom_model_data": 17},"model": "custom_item/chaubau/nhanhnhen2"}
+    {"predicate": {"custom_model_data": 18},"model": "custom_item/chaubau/nhanhnhen3"}
+    {"predicate": {"custom_model_data": 19},"model": "custom_item/chaubau/nhanhnhen4"}
+    {"predicate": {"custom_model_data": 20},"model": "custom_item/chaubau/nhanhnhen5"}
+    {"predicate": {"custom_model_data": 21},"model": "custom_item/chaubau/phongthu1"}
+    {"predicate": {"custom_model_data": 22},"model": "custom_item/chaubau/phongthu2"}
+    {"predicate": {"custom_model_data": 23},"model": "custom_item/chaubau/phongthu3"}
+    {"predicate": {"custom_model_data": 24},"model": "custom_item/chaubau/phongthu4"}
+    {"predicate": {"custom_model_data": 25},"model": "custom_item/chaubau/phongthu5"}
+    {"predicate": {"custom_model_data": 26},"model": "custom_item/chaubau/banphuoc1"}
+    {"predicate": {"custom_model_data": 27},"model": "custom_item/chaubau/banphuoc2"}
+    {"predicate": {"custom_model_data": 28},"model": "custom_item/chaubau/banphuoc3"}
+    {"predicate": {"custom_model_data": 29},"model": "custom_item/chaubau/banphuoc4"}
+    {"predicate": {"custom_model_data": 30},"model": "custom_item/chaubau/banphuoc5"}	
 	]
 }
