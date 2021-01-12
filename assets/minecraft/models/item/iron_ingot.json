@@ -4,6 +4,10 @@
     "layer0": "minecraft:item/iron_ingot"
   },
 	"overrides": [
-    {"predicate": {"custom_model_data": 1},"model": "custom_item/gem/congkich1"}  
+    {"predicate": {"custom_model_data": 1},"model": "custom_item/chaubau/congkich1"}
+    {"predicate": {"custom_model_data": 2},"model": "custom_item/chaubau/congkich2"}
+    {"predicate": {"custom_model_data": 3},"model": "custom_item/chaubau/congkich3"}
+    {"predicate": {"custom_model_data": 4},"model": "custom_item/chaubau/congkich4"}
+    {"predicate": {"custom_model_data": 5},"model": "custom_item/chaubau/congkich5"}	
 	]
 }

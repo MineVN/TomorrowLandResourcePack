@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "tml/congkich1"
+    "layer0": "custom_item/chaubau/congkich3"
   }
 }
