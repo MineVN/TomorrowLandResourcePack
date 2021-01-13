@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "custom_item/donate/1point"},
+    {"predicate": {"custom_model_data": 2},"model": "custom_item/donate/5point"},
+    {"predicate": {"custom_model_data": 3},"model": "custom_item/donate/10point"},
+    {"predicate": {"custom_model_data": 4},"model": "custom_item/money/1"},
+    {"predicate": {"custom_model_data": 5},"model": "custom_item/money/2"},
+    {"predicate": {"custom_model_data": 6},"model": "custom_item/money/3"},
+    {"predicate": {"custom_model_data": 7},"model": "custom_item/money/4"},
+    {"predicate": {"custom_model_data": 8},"model": "custom_item/money/5"},
+    {"predicate": {"custom_model_data": 9},"model": "custom_item/money/6"}	
+	]
+}
