@@ -12,6 +12,10 @@
     {"predicate": {"custom_model_data": 6},"model": "custom_item/money/3"},
     {"predicate": {"custom_model_data": 7},"model": "custom_item/money/4"},
     {"predicate": {"custom_model_data": 8},"model": "custom_item/money/5"},
-    {"predicate": {"custom_model_data": 9},"model": "custom_item/money/6"}	
+    {"predicate": {"custom_model_data": 9},"model": "custom_item/money/6"},	
+	{"predicate": {"custom_model_data": 10},"model": "custom_item/rank/elite"},
+    {"predicate": {"custom_model_data": 11},"model": "custom_item/rank/master"},
+    {"predicate": {"custom_model_data": 12},"model": "custom_item/rank/champion"},
+    {"predicate": {"custom_model_data": 13},"model": "custom_item/rank/paladin"}
 	]
 }
