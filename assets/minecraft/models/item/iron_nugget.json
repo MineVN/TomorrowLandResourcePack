@@ -16,6 +16,9 @@
 	{"predicate": {"custom_model_data": 10},"model": "custom_item/rank/elite"},
     {"predicate": {"custom_model_data": 11},"model": "custom_item/rank/master"},
     {"predicate": {"custom_model_data": 12},"model": "custom_item/rank/champion"},
-    {"predicate": {"custom_model_data": 13},"model": "custom_item/rank/paladin"}
+    {"predicate": {"custom_model_data": 13},"model": "custom_item/rank/paladin"},
+	{"predicate": {"custom_model_data": 14},"model": "custom_item/menu/huongdan"},
+    {"predicate": {"custom_model_data": 15},"model": "custom_item/menu/thongtin"},
+    {"predicate": {"custom_model_data": 16},"model": "custom_item/menu/donate"}
 	]
 }
