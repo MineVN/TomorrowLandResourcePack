@@ -345,6 +345,186 @@
         "custom_model_data": 57
       },
       "model": "ui/image/enchant_table_image/enchant_table_image_29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "ui/image/generate_table_image/generate_table_image_29"
     }
   ]
 }
