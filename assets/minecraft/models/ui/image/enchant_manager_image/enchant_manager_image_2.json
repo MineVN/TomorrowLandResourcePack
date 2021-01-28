@@ -1,0 +1,6 @@
+{
+  "parent": "ui/ui_cover",
+  "textures": {
+    "layer0": "ui/image/enchant_manager_image/enchant_manager_image_2"
+  }
+}

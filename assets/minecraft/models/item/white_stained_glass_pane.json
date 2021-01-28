@@ -525,6 +525,120 @@
         "custom_model_data": 87
       },
       "model": "ui/image/generate_table_image/generate_table_image_29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "ui/image/enchant_manager_image/enchant_manager_image_18"
     }
   ]
 }
