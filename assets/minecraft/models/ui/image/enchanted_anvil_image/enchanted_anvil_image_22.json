@@ -1,0 +1,6 @@
+{
+  "parent": "ui/ui_cover",
+  "textures": {
+    "layer0": "ui/image/enchanted_anvil_image/enchanted_anvil_image_22"
+  }
+}
