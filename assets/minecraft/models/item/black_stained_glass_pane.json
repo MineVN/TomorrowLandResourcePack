@@ -20,6 +20,7 @@
     {"predicate": {"custom_model_data": 14},"model": "ui/element/generate_gui_button"},
     {"predicate": {"custom_model_data": 15},"model": "ui/element/combine_gui_guarantee"},
     {"predicate": {"custom_model_data": 16},"model": "ui/element/combine_gui_button"},
-	{"predicate": {"custom_model_data": 17},"model": "ui/element/anvil_gui_button"}
+	{"predicate": {"custom_model_data": 17},"model": "ui/element/anvil_gui_button"},
+	{"predicate": {"custom_model_data": 18},"model": "ui/element/qlpp"}
 	]
 }
