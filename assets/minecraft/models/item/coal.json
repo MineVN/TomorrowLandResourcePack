@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/coal"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "custom_item/key/ruongbac"},
+	{"predicate": {"custom_model_data": 2},"model": "custom_item/key/ruongvang"},
+	{"predicate": {"custom_model_data": 3},"model": "custom_item/key/ruongruby"}
+	]
+}
