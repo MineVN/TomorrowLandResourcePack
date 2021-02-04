@@ -6,6 +6,9 @@
 	"overrides": [
     {"predicate": {"custom_model_data": 1},"model": "custom_item/key/ruongbac"},
 	{"predicate": {"custom_model_data": 2},"model": "custom_item/key/ruongvang"},
-	{"predicate": {"custom_model_data": 3},"model": "custom_item/key/ruongruby"}
+	{"predicate": {"custom_model_data": 3},"model": "custom_item/key/ruongruby"},
+	{"predicate": {"custom_model_data": 4},"model": "custom_item/tradeadvanced/plant"},
+	{"predicate": {"custom_model_data": 5},"model": "custom_item/tradeadvanced/food"},
+	{"predicate": {"custom_model_data": 6},"model": "custom_item/tradeadvanced/drink"}
 	]
 }
