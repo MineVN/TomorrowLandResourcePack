@@ -1,0 +1,6 @@
+{
+  "parent": "ui/ui_cover",
+  "textures": {
+    "layer0": "ui/image/gem_combine_image/gem_combine_image_26"
+  }
+}
