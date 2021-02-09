@@ -777,6 +777,198 @@
         "custom_model_data": 129
       },
       "model": "ui/image/enchanted_anvil_image/enchanted_anvil_image_22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 134
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 135
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 136
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 137
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 138
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 139
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 141
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 142
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 143
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 144
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 145
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 146
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 147
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 148
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 149
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 154
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 156
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 157
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 158
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 159
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 160
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 161
+      },
+      "model": "ui/image/gem_combine_image/gem_combine_image_31"
     }
   ]
 }
