@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "custom_item/chaubau/giaybaodam"
+    "layer0": "custom_item/chaubau/giaybaodam5"
   }
 }

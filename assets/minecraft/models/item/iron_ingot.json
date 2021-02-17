@@ -34,6 +34,11 @@
     {"predicate": {"custom_model_data": 28},"model": "custom_item/chaubau/banphuoc3"},
     {"predicate": {"custom_model_data": 29},"model": "custom_item/chaubau/banphuoc4"},
     {"predicate": {"custom_model_data": 30},"model": "custom_item/chaubau/banphuoc5"},
-	{"predicate": {"custom_model_data": 31},"model": "custom_item/chaubau/giaybaodam"}
+	{"predicate": {"custom_model_data": 31},"model": "custom_item/chaubau/giaybaodam5"},
+	{"predicate": {"custom_model_data": 32},"model": "custom_item/chaubau/giaybaodam10"},
+	{"predicate": {"custom_model_data": 33},"model": "custom_item/chaubau/giaybaodam20"},
+	{"predicate": {"custom_model_data": 34},"model": "custom_item/chaubau/giaybaodam50"},
+	{"predicate": {"custom_model_data": 35},"model": "custom_item/chaubau/giaybaodam70"},
+	{"predicate": {"custom_model_data": 36},"model": "custom_item/chaubau/giaybaodam100"}
 	]
 }

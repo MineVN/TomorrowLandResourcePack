@@ -6,6 +6,9 @@
 	"overrides": [
     {"predicate": {"custom_model_data": 1},"model": "custom_item/trangbi/combataxe"},
 	{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/namelessblade"},
-	{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/divineblade"}
+	{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/divineblade"},
+	{"predicate": {"custom_model_data": 4},"model": "custom_item/trangbi/doubleaxe"},
+	{"predicate": {"custom_model_data": 5},"model": "custom_item/trangbi/claymore"},
+	{"predicate": {"custom_model_data": 6},"model": "custom_item/trangbi/fortunespear"}
 	]
 }
