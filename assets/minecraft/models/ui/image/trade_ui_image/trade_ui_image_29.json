@@ -1,0 +1,6 @@
+{
+  "parent": "ui/ui_cover",
+  "textures": {
+    "layer0": "ui/image/trade_ui_image/trade_ui_image_29"
+  }
+}
