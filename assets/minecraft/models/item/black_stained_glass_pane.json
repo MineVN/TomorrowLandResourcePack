@@ -24,6 +24,26 @@
 	{"predicate": {"custom_model_data": 18},"model": "ui/element/qlpp"},
 	{"predicate": {"custom_model_data": 19},"model": "ui/element/kham"},
 	{"predicate": {"custom_model_data": 20},"model": "ui/element/ok_button"},
-	{"predicate": {"custom_model_data": 21},"model": "ui/element/transparent"}
+	{"predicate": {"custom_model_data": 21},"model": "ui/element/transparent"},
+	{"predicate": {"custom_model_data": 22},"model": "ui/element/point"},
+	{"predicate": {"custom_model_data": 23},"model": "ui/element/nhiemvu1"},
+	{"predicate": {"custom_model_data": 24},"model": "ui/element/nhiemvu2"},
+	{"predicate": {"custom_model_data": 25},"model": "ui/element/nhiemvu3"},
+	{"predicate": {"custom_model_data": 26},"model": "ui/element/nhiemvu4"},
+	{"predicate": {"custom_model_data": 27},"model": "ui/element/nhiemvu5"},
+	{"predicate": {"custom_model_data": 28},"model": "ui/element/nhiemvu6"},
+	{"predicate": {"custom_model_data": 29},"model": "ui/element/nhiemvu7"},
+	{"predicate": {"custom_model_data": 30},"model": "ui/element/nhiemvu8"},
+	{"predicate": {"custom_model_data": 31},"model": "ui/element/nhiemvu9"},
+	{"predicate": {"custom_model_data": 32},"model": "ui/element/qpshop"},
+	{"predicate": {"custom_model_data": 33},"model": "ui/element/trade_factory"},
+	{"predicate": {"custom_model_data": 34},"model": "ui/element/trade_kho"},
+	{"predicate": {"custom_model_data": 35},"model": "ui/element/trade_ship"},
+	{"predicate": {"custom_model_data": 36},"model": "ui/element/trade_shop"},
+	{"predicate": {"custom_model_data": 37},"model": "ui/element/button_left"},
+	{"predicate": {"custom_model_data": 38},"model": "ui/element/button_right"},
+	{"predicate": {"custom_model_data": 39},"model": "ui/element/button_up"},
+	{"predicate": {"custom_model_data": 40},"model": "ui/element/button_bottom"},
+	{"predicate": {"custom_model_data": 41},"model": "ui/element/clock"}
 	]
 }

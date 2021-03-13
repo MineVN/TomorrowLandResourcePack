@@ -11,6 +11,10 @@
 	{"predicate": {"custom_model_data": 5},"model": "custom_item/tradeadvanced/food"},
 	{"predicate": {"custom_model_data": 6},"model": "custom_item/tradeadvanced/drink"},
 	{"predicate": {"custom_model_data": 7},"model": "custom_item/key/ruongonline"},
-	{"predicate": {"custom_model_data": 8},"model": "custom_item/key/ruongtet2021"}
+	{"predicate": {"custom_model_data": 8},"model": "custom_item/key/ruongtet2021"},
+	{"predicate": {"custom_model_data": 9},"model": "custom_item/key/elitebow"},
+	{"predicate": {"custom_model_data": 10},"model": "custom_item/key/namelesssword"},
+	{"predicate": {"custom_model_data": 11},"model": "custom_item/key/stormlander"},
+	{"predicate": {"custom_model_data": 12},"model": "custom_item/key/divineblade"}
 	]
 }
