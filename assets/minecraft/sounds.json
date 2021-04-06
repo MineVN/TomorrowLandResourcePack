@@ -1,0 +1,46 @@
+{
+  "tml.effect.bonk": {
+    "sounds": [
+      {
+	    "name": "tml/effect/bonk",
+        "stream": true
+      }
+    ]
+  },
+  "tml.music.darkriver": {
+    "sounds": [
+      {
+	    "name": "tml/music/darkriver",
+        "stream": true
+      }
+    ]
+  },
+  "tml.effect.animewow": {
+    "sounds": [
+      {
+	    "name": "tml/effect/animewow",
+        "stream": true
+      }
+    ]
+  },
+  "tml.effect.knock": {
+    "sounds": [
+      {
+	    "name": "tml/effect/knock1",
+        "stream": true
+      },
+	  {
+	    "name": "tml/effect/knock2",
+        "stream": true
+      }
+    ]
+  },
+  "tml.music.overwatch": {
+    "sounds": [
+      {
+	    "name": "tml/music/overwatch",
+        "stream": true
+      }
+    ]
+  }
+}

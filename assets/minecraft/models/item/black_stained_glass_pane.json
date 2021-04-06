@@ -44,6 +44,7 @@
 	{"predicate": {"custom_model_data": 38},"model": "ui/element/button_right"},
 	{"predicate": {"custom_model_data": 39},"model": "ui/element/button_up"},
 	{"predicate": {"custom_model_data": 40},"model": "ui/element/button_bottom"},
-	{"predicate": {"custom_model_data": 41},"model": "ui/element/clock"}
+	{"predicate": {"custom_model_data": 41},"model": "ui/element/clock"},
+	{"predicate": {"custom_model_data": 42},"model": "ui/element/trade_reward"}
 	]
 }
