@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "custom_item/trangbi/arbalest_pulling_1"
+    }
+}

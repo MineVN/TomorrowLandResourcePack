@@ -5,6 +5,7 @@
   },
 	"overrides": [
     {"predicate": {"custom_model_data": 1},"model": "custom_item/trangbi/scythe"},
-	{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/demonsycthe"}
+	{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/demonscythe"},
+	{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/glaive_default"}
 	]
 }

@@ -7,10 +7,10 @@
       }
     ]
   },
-  "tml.music.darkriver": {
+  "tml.music.uia": {
     "sounds": [
       {
-	    "name": "tml/music/darkriver",
+	    "name": "tml/music/uia",
         "stream": true
       }
     ]

@@ -14,6 +14,21 @@
 	{"predicate": {"custom_model_data": 8},"model": "custom_item/enchant/enchant_book_lv7"},
 	{"predicate": {"custom_model_data": 9},"model": "custom_item/enchant/enchant_book_lv8"},
 	{"predicate": {"custom_model_data": 10},"model": "custom_item/enchant/enchant_book_lv9"},
-	{"predicate": {"custom_model_data": 11},"model": "custom_item/enchant/enchant_book_lv10"}
+	{"predicate": {"custom_model_data": 11},"model": "custom_item/enchant/enchant_book_lv10"},
+	{"predicate": {"custom_model_data": 12},"model": "custom_item/enchant/magic_book_lv1"},
+	{"predicate": {"custom_model_data": 13},"model": "custom_item/enchant/magic_book_lv2"},
+	{"predicate": {"custom_model_data": 14},"model": "custom_item/enchant/magic_book_lv3"},
+	{"predicate": {"custom_model_data": 15},"model": "custom_item/enchant/magic_book_lv4"},
+	{"predicate": {"custom_model_data": 16},"model": "custom_item/enchant/magic_book_lv5"},
+	{"predicate": {"custom_model_data": 17},"model": "custom_item/enchant/magic_book_lv6"},
+	{"predicate": {"custom_model_data": 18},"model": "custom_item/enchant/magic_book_lv7"},
+	{"predicate": {"custom_model_data": 19},"model": "custom_item/enchant/magic_book_lv8"},
+	{"predicate": {"custom_model_data": 20},"model": "custom_item/enchant/magic_book_lv9"},
+	{"predicate": {"custom_model_data": 21},"model": "custom_item/enchant/magic_book_lv10"},
+	{"predicate": {"custom_model_data": 22},"model": "custom_item/tradeadvanced/10percent"},
+	{"predicate": {"custom_model_data": 23},"model": "custom_item/tradeadvanced/20percent"},
+	{"predicate": {"custom_model_data": 24},"model": "custom_item/tradeadvanced/50percent"},
+	{"predicate": {"custom_model_data": 25},"model": "custom_item/tradeadvanced/70percent"},
+	{"predicate": {"custom_model_data": 26},"model": "custom_item/tradeadvanced/90percent"}
 	]
 }
