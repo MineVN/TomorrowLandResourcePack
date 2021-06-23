@@ -1,0 +1,6 @@
+{
+  "parent": "ui/ui_cover",
+  "textures": {
+    "layer0": "ui/image/ship_ui_image/ship_ui_image_13"
+  }
+}

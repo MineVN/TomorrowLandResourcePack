@@ -18,6 +18,12 @@
 	{"predicate": {"custom_model_data": 12},"model": "custom_item/key/divineblade"},
 	{"predicate": {"custom_model_data": 13},"model": "custom_item/key/demonscythe"},
 	{"predicate": {"custom_model_data": 14},"model": "custom_item/key/nightcrossbow"},
-	{"predicate": {"custom_model_data": 15},"model": "custom_item/key/darkkatana"}
+	{"predicate": {"custom_model_data": 15},"model": "custom_item/key/darkkatana"},
+	{"predicate": {"custom_model_data": 16},"model": "custom_item/key/fireboltthrower"},
+	{"predicate": {"custom_model_data": 17},"model": "custom_item/key/starfall"},
+	{"predicate": {"custom_model_data": 18},"model": "custom_item/key/crystalsword"},
+	{"predicate": {"custom_model_data": 19},"model": "custom_item/key/crescentaxe"},
+	{"predicate": {"custom_model_data": 20},"model": "custom_item/key/cerulean"},
+	{"predicate": {"custom_model_data": 21},"model": "custom_item/key/venomglaive"}
 	]
 }

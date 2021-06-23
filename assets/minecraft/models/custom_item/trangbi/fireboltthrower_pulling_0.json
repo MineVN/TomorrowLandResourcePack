@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "custom_item/trangbi/fireboltthrower_pulling_0"
+    }
+}

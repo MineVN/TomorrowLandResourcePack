@@ -35,6 +35,78 @@
       }
     ]
   },
+  "tml.enchant.damage.clownhonk": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/damage/clownhonk",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.damage.minecraftoof": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/damage/minecraftoof",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.damage.robloxoof": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/damage/robloxoof",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.damage.rubberduck": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/damage/rubberduck",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.damage.windowserror": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/damage/windowserror",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.kill.amongus": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/kill/amongus",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.kill.circus": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/kill/circus",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.kill.mario": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/kill/mario",
+        "stream": true
+      }
+    ]
+  },
+  "tml.enchant.kill.windowsshutdown": {
+    "sounds": [
+      {
+	    "name": "tml/enchant/kill/windowsshutdown",
+        "stream": true
+      }
+    ]
+  },
   "tml.music.overwatch": {
     "sounds": [
       {
@@ -42,5 +114,73 @@
         "stream": true
       }
     ]
-  }
+  },
+  "tml.dungeon.pve1.namelessone_death": {
+    "sounds": [
+      {
+	    "name": "tml/dungeon/pve1/namelessone_death",
+        "stream": true
+      }
+    ]
+  },
+  "tml.dungeon.pve1.namelessone_dopple": {
+    "sounds": [
+      {
+	    "name": "tml/dungeon/pve1/namelessone_dopple",
+        "stream": true
+      }
+    ]
+  },
+  "tml.dungeon.pve1.namelessone_hurt": {
+    "sounds": [
+      {
+	    "name": "tml/dungeon/pve1/namelessone_hurt1",
+        "stream": true
+      },
+	  {
+	    "name": "tml/dungeon/pve1/namelessone_hurt2",
+        "stream": true
+      },
+	  {
+	    "name": "tml/dungeon/pve1/namelessone_hurt3",
+        "stream": true
+      },
+	  {
+	    "name": "tml/dungeon/pve1/namelessone_hurt4",
+        "stream": true
+      }
+    ]
+  },
+  "tml.dungeon.pve1.namelessone_laugh": {
+    "sounds": [
+      {
+	    "name": "tml/dungeon/pve1/namelessone_laugh1",
+        "stream": true
+      },
+	  {
+	    "name": "tml/dungeon/pve1/namelessone_laugh2",
+        "stream": true
+      }
+    ]
+  },
+  "tml.dungeon.pve1.namelessone_shoot": {
+    "sounds": [
+      {
+	    "name": "tml/dungeon/pve1/namelessone_shoot1",
+        "stream": true
+      },
+	  {
+	    "name": "tml/dungeon/pve1/namelessone_shoot2",
+        "stream": true
+      }
+    ]
+  },
+  "tml.dungeon.pve1.namelessone_summon": {
+    "sounds": [
+      {
+	    "name": "tml/dungeon/pve1/namelessone_summon",
+        "stream": true
+      }
+    ]
+  } 
 }

@@ -6,6 +6,8 @@
 		"overrides": [
 		{"predicate": {"custom_model_data": 1},"model": "custom_item/trangbi/elitebow_pulling_0"},
 		{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/longbow_pulling_0"},
-		{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/bowoflostsouls_pulling_0"}
+		{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/bowoflostsouls_pulling_0"},
+		{"predicate": {"custom_model_data": 4},"model": "custom_item/trangbi/cerulean_pulling_0"},
+		{"predicate": {"custom_model_data": 5},"model": "custom_item/trangbi/emeraldbow_pulling_0"}
 		]
 }

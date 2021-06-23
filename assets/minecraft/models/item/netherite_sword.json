@@ -4,13 +4,16 @@
     "layer0": "minecraft:item/netherite_sword"
   },
 	"overrides": [
-    {"predicate": {"custom_model_data": 1},"model": "item/netherite_sword"},
+	{"predicate": {"custom_model_data": 0},"model": "custom_item/trangbi/netheritesword"},
+    {"predicate": {"custom_model_data": 1},"model": "custom_item/trangbi/netheritesword"},
 	{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/namelessblade"},
 	{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/divineblade"},
-	{"predicate": {"custom_model_data": 4},"model": "item/netherite_sword"},
+	{"predicate": {"custom_model_data": 4},"model": "custom_item/trangbi/netheritesword"},
 	{"predicate": {"custom_model_data": 5},"model": "custom_item/trangbi/claymore"},
 	{"predicate": {"custom_model_data": 6},"model": "custom_item/trangbi/fortunespear"},
 	{"predicate": {"custom_model_data": 7},"model": "custom_item/trangbi/cutlass"},
-	{"predicate": {"custom_model_data": 8},"model": "custom_item/trangbi/darkkatana"}
+	{"predicate": {"custom_model_data": 8},"model": "custom_item/trangbi/darkkatana"},
+	{"predicate": {"custom_model_data": 9},"model": "custom_item/trangbi/crystalsword"},
+	{"predicate": {"custom_model_data": 10},"model": "custom_item/trangbi/emeraldsword"}
 	]
 }

@@ -5,6 +5,8 @@
     },
 		"overrides": [
 		{"predicate": {"custom_model_data": 1},"model": "custom_item/trangbi/arbalest_arrow"},
-		{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/nightcrossbow_arrow"}
+		{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/nightcrossbow_arrow"},
+		{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/fireboltthrower_arrow"},
+		{"predicate": {"custom_model_data": 4},"model": "custom_item/trangbi/emeraldcrossbow_arrow"}
 		]
 }

@@ -40,6 +40,14 @@
 	{"predicate": {"custom_model_data":3},"model": "custom_item/trangbi/bowoflostsouls"},
 	{"predicate": {"custom_model_data":3,"pulling": 1},"model": "custom_item/trangbi/bowoflostsouls_pulling_0"},
 	{"predicate": {"custom_model_data":3,"pulling": 1,"pull": 0.65},"model": "custom_item/trangbi/bowoflostsouls_pulling_1"},
-	{"predicate": {"custom_model_data":3,"pulling": 1,"pull": 0.9},"model": "custom_item/trangbi/bowoflostsouls_pulling_2"}
+	{"predicate": {"custom_model_data":3,"pulling": 1,"pull": 0.9},"model": "custom_item/trangbi/bowoflostsouls_pulling_2"},
+	{"predicate": {"custom_model_data":4},"model": "custom_item/trangbi/cerulean"},
+	{"predicate": {"custom_model_data":4,"pulling": 1},"model": "custom_item/trangbi/cerulean_pulling_0"},
+	{"predicate": {"custom_model_data":4,"pulling": 1,"pull": 0.65},"model": "custom_item/trangbi/cerulean_pulling_1"},
+	{"predicate": {"custom_model_data":4,"pulling": 1,"pull": 0.9},"model": "custom_item/trangbi/cerulean_pulling_2"},
+	{"predicate": {"custom_model_data":5},"model": "custom_item/trangbi/emeraldbow"},
+	{"predicate": {"custom_model_data":5,"pulling": 1},"model": "custom_item/trangbi/emeraldbow_pulling_0"},
+	{"predicate": {"custom_model_data":5,"pulling": 1,"pull": 0.65},"model": "custom_item/trangbi/emeraldbow_pulling_1"},
+	{"predicate": {"custom_model_data":5,"pulling": 1,"pull": 0.9},"model": "custom_item/trangbi/emeraldbow_pulling_2"}
     ]
 }

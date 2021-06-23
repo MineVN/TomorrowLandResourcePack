@@ -42,6 +42,18 @@
 		{"predicate": {"custom_model_data":2,"pulling": 1,"pull": 0.58},"model": "custom_item/trangbi/nightcrossbow_pulling_1"},
         {"predicate": {"custom_model_data":2,"pulling": 1,"pull": 1.0},"model": "custom_item/trangbi/nightcrossbow_pulling_2"},
         {"predicate": {"custom_model_data":2,"charged": 1},"model": "custom_item/trangbi/nightcrossbow_arrow"},
-        {"predicate": {"custom_model_data":2,"charged": 1,"firework": 1},"model": "custom_item/trangbi/nightcrossbow_firework"}
+        {"predicate": {"custom_model_data":2,"charged": 1,"firework": 1},"model": "custom_item/trangbi/nightcrossbow_firework"},
+		{"predicate": {"custom_model_data":3},"model": "custom_item/trangbi/fireboltthrower_standby"},
+		{"predicate": {"custom_model_data":3,"pulling": 1},"model": "custom_item/trangbi/fireboltthrower_pulling_0"},
+		{"predicate": {"custom_model_data":3,"pulling": 1,"pull": 0.58},"model": "custom_item/trangbi/fireboltthrower_pulling_1"},
+        {"predicate": {"custom_model_data":3,"pulling": 1,"pull": 1.0},"model": "custom_item/trangbi/fireboltthrower_pulling_2"},
+        {"predicate": {"custom_model_data":3,"charged": 1},"model": "custom_item/trangbi/fireboltthrower_arrow"},
+        {"predicate": {"custom_model_data":3,"charged": 1,"firework": 1},"model": "custom_item/trangbi/fireboltthrower_firework"},
+		{"predicate": {"custom_model_data":4},"model": "custom_item/trangbi/emeraldcrossbow_standby"},
+		{"predicate": {"custom_model_data":4,"pulling": 1},"model": "custom_item/trangbi/emeraldcrossbow_pulling_0"},
+		{"predicate": {"custom_model_data":4,"pulling": 1,"pull": 0.58},"model": "custom_item/trangbi/emeraldcrossbow_pulling_1"},
+        {"predicate": {"custom_model_data":4,"pulling": 1,"pull": 1.0},"model": "custom_item/trangbi/emeraldcrossbow_pulling_2"},
+        {"predicate": {"custom_model_data":4,"charged": 1},"model": "custom_item/trangbi/emeraldcrossbow_arrow"},
+        {"predicate": {"custom_model_data":4,"charged": 1,"firework": 1},"model": "custom_item/trangbi/emeraldcrossbow_firework"}
     ]
 }

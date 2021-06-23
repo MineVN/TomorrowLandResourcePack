@@ -5,7 +5,9 @@
     },
 		"overrides": [
 		{"predicate": {"custom_model_data": 1},"model": "custom_item/trangbi/arbalest_pulling_1"},
-		{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/nightcrossbow_pulling_1"}
+		{"predicate": {"custom_model_data": 2},"model": "custom_item/trangbi/nightcrossbow_pulling_1"},
+		{"predicate": {"custom_model_data": 3},"model": "custom_item/trangbi/fireboltthrower_pulling_1"},
+		{"predicate": {"custom_model_data": 4},"model": "custom_item/trangbi/emeraldcrossbow_pulling_1"}
 		]
 }
 

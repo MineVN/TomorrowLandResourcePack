@@ -1425,6 +1425,138 @@
         "custom_model_data": 237
       },
       "model": "ui/image/nhiemvu_ui_image/nhiemvu_ui_image_34"
-    }
+    },
+    {
+      "predicate": {
+        "custom_model_data": 238
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_0_18_36"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 239
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_4"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 240
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_10_11_12_28_29_30"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 241
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_13"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 242
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_16"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 243
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_22"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 244
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_23"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 245
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_24"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 246
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_26_44"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 247
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_31"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 248
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_32"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 249
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_33"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 250
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_40"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 251
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_41"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 252
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_42"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 253
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_46_47_48"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 254
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_49"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 255
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_50"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 256
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_51"
+    },		
+    {
+      "predicate": {
+        "custom_model_data": 257
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_lock"
+    },	
+    {
+      "predicate": {
+        "custom_model_data": 258
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_lock2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 259
+      },
+      "model": "ui/image/ship_ui_image/ship_ui_image_finish"
+    }		
   ]
 }

@@ -1,0 +1,670 @@
+lobby: dungeon,790,115,105
+name: PHÓ BẢN 1 (Siêu dễ)
+min-player: 1
+stage:
+  stage1:
+    playerspawns:
+    - dungeon,783,105,101
+    - dungeon,783,105,103
+    - dungeon,783,105,105
+    - dungeon,783,105,107
+    - dungeon,783,105,109
+    - dungeon,781,105,102
+    - dungeon,781,105,104
+    - dungeon,781,105,106
+    - dungeon,781,105,108
+    checkpoints:
+      cp1:
+        location: dungeon,778,105,105
+        priority: 1.0
+        radius: 5.0
+      cp2:
+        location: dungeon,728,92,61
+        priority: 2.0
+        radius: 5.0
+    spawners:
+      pve1minion1_1:
+        max: 3 #10
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,766,105,105
+      pve1minion1_2:
+        max: 3 #10
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,753,106,105
+      pve1minion1_3: #ống cống
+        max: 3
+        period: 10
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,755,98,108
+      pve1minion1_4: #ống cống
+        max: 3
+        period: 10
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,755,98,87
+      pve1minion1_4x: #đối diện phòng necromancer
+        max: 3
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,739,87,79
+      pve1minion2_1: #ống cống
+        max: 3 #8
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,755,98,97
+      pve1minion2_2: #ống cống
+        max: 3 #8
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,755,98,76
+      pve1minion2_3: #lửa trại
+        max: 4 #10
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,755,92,61
+      pve1minion2_4:
+        max: 4 #10
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,728,87,83
+      pve1minion2_5: #đối diện phòng boss
+        max: 4 #10
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,738,87,98
+      pve1minion2_6: #trước cửa phòng boss
+        max: 3 #8
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,752,88,94
+      pve1minion2_7: #phòng boss necromancer
+        max: 3 #8
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,774,86,101
+      pve1minion2_8: #phòng boss necromancer
+        max: 3 #8
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,774,86,89
+      pve1minion3_1: #đường ray
+        max: 4 #10
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,728,92,61
+      pve1minion3_2: #bệ gỗ phòng boss
+        max: 3 #5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,751,86,100
+      pve1minion3_3: #phòng boss necromancer
+        max: 3 #5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,762,86,89
+      pve1minion3_4: #phòng boss necromancer
+        max: 3 #5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,762,86,101
+    bosses:
+      necromancer:
+        location: dungeon,768,87,95
+        max: 1
+        amountreset: false
+        nearby: 1
+        range: 10.0
+        mobname: necromancer_lv1
+    time-limit-type: OVER_TO_LOSE
+    time-limit: 1020
+  stage2:
+    playerspawns:
+    - dungeon,782,88,99
+    - dungeon,782,88,97
+    - dungeon,782,88,95
+    - dungeon,782,88,93
+    - dungeon,782,88,91
+    - dungeon,784,88,98
+    - dungeon,784,88,96
+    - dungeon,784,88,94
+    - dungeon,784,88,92
+    checkpoints:
+      cp3:
+        priority: 3.0
+        radius: 5.0
+        location: dungeon,793,90,95
+      cp4:
+        priority: 4.0
+        location: dungeon,729,105,103
+        radius: 5.0
+      cp5:
+        location: dungeon,616,101,105
+        priority: 5.0
+        radius: 1.0
+    bosses:
+      namelessone:
+        location: dungeon,555,97,105
+        max: 1
+        nearby: 1
+        range: 25.0
+        mobname: namelessone_lv1
+        amountreset: false
+    spawners:
+      pve1minion2stage2_1:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,710,96,91
+      pve1minion2stage2_2:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,528,101,105
+      pve1minion2stage2_3:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,728,105,116
+      pve1minion2stage2_4:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,701,96,24
+      pve1minion2stage2_5:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,718,96,16
+      skeletonvanguard_1:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: skeletonvanguard_lv1
+        nearby: 1
+        location: dungeon,727,105,106
+      skeletonvanguard_2:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: skeletonvanguard_lv1
+        nearby: 1
+        location: dungeon,711,96,101
+      skeletonvanguard_3:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: skeletonvanguard_lv1
+        nearby: 1
+        location: dungeon,710,96,13
+      skeletonvanguard_4:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: skeletonvanguard_lv1
+        nearby: 1
+        location: dungeon,685,91,146
+      skeletonvanguard_5:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: skeletonvanguard_lv1
+        nearby: 1
+        location: dungeon,595,101,105
+      pve1minion1stage2_1:
+        max: 4
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,784,99,89
+      pve1minion1stage2_2:
+        max: 4
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,784,99,95
+      pve1minion1stage2_3:
+        max: 4
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,784,99,100
+      pve1minion1stage2_4:
+        max: 4
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,762,105,95
+      pve1minion1stage2_5:
+        max: 4
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,752,105,95
+      pve1minion1stage2_6:
+        max: 4
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,731,100,126
+      pve1minion1stage2_7:
+        max: 4
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,729,100,134
+      pve1minion4_1:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,713,96,129
+      pve1minion4_2:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,710,96,63
+      pve1minion1stage2_8:
+        max: 5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,701,96,37
+      pve1minion4_3:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,719,96,37
+      pve1minion4_4:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,701,96,30
+      pve1minion2_2:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,719,96,30
+      pve1minion4_5:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,718,96,24
+      pve1minion5_1:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion5_lv1
+        nearby: 1
+        location: dungeon,702,96,17
+      pve1minion5_2:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion5_lv1
+        nearby: 1
+        location: dungeon,710,96,81
+      pve1minion2_3:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,705,96,135
+      pve1minion1stage2_9:
+        max: 5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,701,91,146
+      pve1minion5_3:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion5_lv1
+        nearby: 1
+        location: dungeon,673,91,146
+      pve1minion2_4:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,663,91,146
+      pve1minion4_6:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,642,91,146
+      pve1minion1stage2_10:
+        max: 5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,632,91,149
+      pve1minion1stage2_11:
+        max: 5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,632,91,143
+      pve1minion2_5:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,646,101,111
+      pve1minion2_6:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,647,101,97
+      pve1minion4_7:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,646,101,104
+      pve1minion5_4:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion5_lv1
+        nearby: 1
+        location: dungeon,628,101,105
+      pve1minion1stage2_12:
+        max: 5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,629,101,113
+      pve1minion1stage2_13:
+        max: 5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+        location: dungeon,628,101,95
+      pve1minion1stage2_14:
+        max: 5
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion1_lv1
+        nearby: 1
+       location: dungeon,669,101,104
+      pve1minion5_5:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion5_lv1
+        nearby: 1
+        location: dungeon,679,101,104
+      pve1minion2_7:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion2_lv1
+        nearby: 1
+        location: dungeon,690,108,108
+      pve1minion4_8:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,685,91,131
+      pve1minion4_9:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion4_lv1
+        nearby: 1
+        location: dungeon,555,101,78
+      pve1minion3stage2_1:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,744,105,95
+      pve1minion3stage2_2:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,710,96,121
+      pve1minion3stage2_3:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,703,96,46
+      pve1minion3stage2_4:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,722,96,47
+      pve1minion3stage2_5:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,698,96,99
+      pve1minion3stage2_6:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,685,101,110
+      pve1minion3stage2_7:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,680,108,108
+      skeletonvanguard_6:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: skeletonvanguard_lv1
+        nearby: 1
+        location: dungeon,685,108,98
+      pve1minion3stage2_8:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,652,91,146
+      pve1minion3stage2_9:
+        max: 5 #20
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: pve1-minion3_lv1
+        nearby: 1
+        location: dungeon,555,101,131
+      pve1miniboss1:
+        max: 1
+        period: 200
+        range: 50.0
+        amountreset: false
+        mobname: pve1-miniboss_lv1
+        nearby: 1
+        location: dungeon,710,96,10
+      pve1miniboss2:
+        max: 1
+        period: 200
+        range: 50.0
+        amountreset: false
+        mobname: pve1-miniboss_lv1
+        nearby: 1
+        location: dungeon,685,108,108
+      pve1miniboss3:
+        max: 1
+        period: 200
+        range: 50.0
+        amountreset: false
+        mobname: pve1-miniboss_lv1
+        nearby: 1
+        location: dungeon,628,91,129
+      skeletonvanguard_7:
+        max: 1
+        period: 20
+        range: 50.0
+        amountreset: false
+        mobname: skeletonvanguard_lv1
+        nearby: 1
+        location: dungeon,628,91,136
+    time-limit-type: OVER_TO_LOSE
+    time-limit: 1380

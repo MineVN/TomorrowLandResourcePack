@@ -1,7 +1,7 @@
 {
 	"__comment": "For Tomorrowland - by NgXTruongHai",
 	"textures": {
-		"bowoflostsouls": "custom_item/trangbi/bowoflostsouls_pulling_1"
+		"bowoflostsouls_pulling_1": "custom_item/trangbi/bowoflostsouls_pulling_1"
 	},
 	"elements": [ 	 
 		{

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "custom_item/ring/nhango"},
+    {"predicate": {"custom_model_data": 2},"model": "custom_item/ring/nhanbac"},
+    {"predicate": {"custom_model_data": 3},"model": "custom_item/ring/nhanvang"},
+    {"predicate": {"custom_model_data": 4},"model": "custom_item/ring/nhanlucbao"},
+    {"predicate": {"custom_model_data": 5},"model": "custom_item/ring/nhankimcuong"},
+    {"predicate": {"custom_model_data": 6},"model": "custom_item/ring/nhanruby"}
+	]
+}
